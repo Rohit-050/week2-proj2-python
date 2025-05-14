@@ -5,4 +5,4 @@ INPUT -
 First Name : Rohit
 
 Last Name : Raj
- * Output is saved in saved_nickname.txt file *
+ * Output is saved in saved_nickname.txt file 
