@@ -1,6 +1,6 @@
 Week2 : Project 2 : Auto_Nickname_Combiner
 
-Input
+INPUT -
 
 First Name : Rohit
 
